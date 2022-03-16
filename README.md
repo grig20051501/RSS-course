@@ -1,6 +1,6 @@
-#This is my educational repository
-###I only make experiments here
-Some test text **and some important text**. ~~There was a mistake~~. **_Some extremely important text_**.
+# This is my educational repository
+### I only make experiments here
+Some test text **and some important text**. ~~There was a mistake~~. **_Some extremely important text_**. /n
 There is a qoute: 
 >quote about something.
 There is a link to [Wikipedia](https://ru.wikipedia.org/wiki/Markdown).
